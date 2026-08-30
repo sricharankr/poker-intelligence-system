@@ -1,2 +1,3 @@
-# cashflow-management-system
-Cashflow management system for personal finances
+#Poker intelligence system
+
+For learning, and becoming a professional poker player
