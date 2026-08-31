@@ -1,6 +1,5 @@
 #Poker intelligence system
 
-For learning, and becoming a professional poker player
+For poker probability analysis and real-time decision making tools.
 
-
-Selfmade system no AI usage, just my brain and the python documentation; only used claude for commiting changes to github.
+First project with a combination of my brain and AI (Claude) and google and the python documentation.
