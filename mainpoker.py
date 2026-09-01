@@ -1,4 +1,4 @@
-print("Welcome to VELOCITY!")
+print("Welcome to Horizon!")
 
 
 def signup():
